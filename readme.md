@@ -9,3 +9,6 @@ NIM : 20250140217
 
 ## Hasil DELETE
 ![alt text](image-5.png)
+
+## Hasil PUT
+![alt text](image-6.png)
